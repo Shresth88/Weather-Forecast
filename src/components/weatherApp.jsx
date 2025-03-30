@@ -6,7 +6,7 @@ import rainy from '../assets/images/rainy.png';
 import snowy from '../assets/images/snowy.png';
 import sunny from '../assets/images/sunny.png';
 import { API_KEY } from '../apiKey';
-import './WeatherApp.css';
+import './weatherApp.css';
 import { 
     IconDropletHalfFilled, 
     IconMapPinFilled, 
