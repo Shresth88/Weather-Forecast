@@ -63,5 +63,5 @@ Feel free to submit a pull request if you have any improvements or new feature i
 This project is licensed under the MIT License.
 
 ---
-💙 Built with love by [Your Name](https://github.com/yourusername)
+💙 Built with love by [Shresth Sharma](https://github.com/Shresth88)
 
